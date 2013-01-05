@@ -15,7 +15,15 @@
 			"file": "lib/brownies.js",
 			"settings":
 			{
-				"buffer_size": 751,
+				"buffer_size": 1208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/__Personal/brownies.js/README.md",
+			"settings":
+			{
+				"buffer_size": 502,
 				"line_ending": "Unix"
 			}
 		}
@@ -44,6 +52,7 @@
 	},
 	"file_history":
 	[
+		"/__Personal/brownies.js/lib/brownies.js"
 	],
 	"find":
 	{
@@ -78,6 +87,7 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -85,20 +95,48 @@
 					"file": "lib/brownies.js",
 					"settings":
 					{
-						"buffer_size": 751,
+						"buffer_size": 1208,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								538,
+								538
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/__Personal/brownies.js/README.md",
+					"settings":
+					{
+						"buffer_size": 502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
